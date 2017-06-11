@@ -1,0 +1,964 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  1 JUN 2017 05:45
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Final project of data visualization by xiaoke shen.tex"
+(./Final project of data visualization by xiaoke shen.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip46
+\enit@outerparindent=\dimen114
+\enit@toks=\toks20
+\enit@inbox=\box28
+\enitdp@description=\count100
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box29
+\beforetitleunit=\skip47
+\aftertitleunit=\skip48
+\ttl@plus=\dimen115
+\ttl@minus=\dimen116
+\ttl@toksa=\toks21
+\titlewidth=\dimen117
+\titlewidthlast=\dimen118
+\titlewidthfirst=\dimen119
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count101
+\calc@Bcount=\count102
+\calc@Adimen=\dimen120
+\calc@Bdimen=\dimen121
+\calc@Askip=\skip49
+\calc@Bskip=\skip50
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count103
+\calc@Cskip=\skip51
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count104
+\l_MT_multwidth_dim=\dimen122
+\origjot=\skip52
+\l_MT_shortvdotswithinadjustabove_dim=\dimen123
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen124
+\l_MT_above_intertext_sep=\dimen125
+\l_MT_below_intertext_sep=\dimen126
+\l_MT_above_shortintertext_sep=\dimen127
+\l_MT_below_shortintertext_sep=\dimen128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks22
+\float@box=\box30
+\@float@everytoks=\toks23
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count106
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count107
+\c@ALC@line=\count108
+\c@ALC@rem=\count109
+\c@ALC@depth=\count110
+\ALC@tlm=\skip53
+\algorithmicindent=\skip54
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box32
+\shadowsize=\dimen129
+\@Sbox=\box33
+\do@VerbBox=\toks25
+\the@fancyput=\toks26
+\this@fancyput=\toks27
+\EndVerbatimTokens=\toks28
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks29
+\thm@bodyfont=\toks30
+\thm@headfont=\toks31
+\thm@notefont=\toks32
+\thm@headpunct=\toks33
+\thm@preskip=\skip55
+\thm@postskip=\skip56
+\thm@headsep=\skip57
+\dth@everypar=\toks34
+)
+(./Final project of data visualization by xiaoke shen.aux
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+)
+\openout1 = `"Final project of data visualization by xiaoke shen.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen130
+\scratchbox=\box34
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen131
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 30.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+
+ []
+
+<law_of_large_number.png, id=1, 462.528pt x 346.896pt>
+File: law_of_large_number.png Graphic file (type png)
+
+<use law_of_large_number.png>
+Package pdftex.def Info: law_of_large_number.png used on input line 38.
+(pdftex.def)             Requested size: 370.02289pt x 277.51717pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--42
+
+ []
+
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+<final.png, id=11, 578.16pt x 433.62pt>
+File: final.png Graphic file (type png)
+ <use final.png>
+Package pdftex.def Info: final.png used on input line 49.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 49--50
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--53
+
+ []
+
+[2 <./law_of_large_number.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
+
+ []
+
+[3 <./final.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+<all_citieshisto.png, id=20, 578.16pt x 433.62pt>
+File: all_citieshisto.png Graphic file (type png)
+ <use all_citieshisto.png>
+Package pdftex.def Info: all_citieshisto.png used on input line 68.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 68--69
+ [] 
+ []
+
+[4] <Buenos_Aires.png, id=24, 578.16pt x 433.62pt>
+File: Buenos_Aires.png Graphic file (type png)
+ <use Buenos_Aires.png>
+Package pdftex.def Info: Buenos_Aires.png used on input line 78.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 78--79
+ [] 
+ []
+
+[5 <./all_citieshisto.png>]
+<Buenos_Aireshisto.png, id=29, 578.16pt x 433.62pt>
+File: Buenos_Aireshisto.png Graphic file (type png)
+
+<use Buenos_Aireshisto.png>
+Package pdftex.def Info: Buenos_Aireshisto.png used on input line 88.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 88--89
+ [] 
+ []
+
+[6 <./Buenos_Aires.png>] <Buenos_Airesbinary.png, id=34, 578.16pt x 433.62pt>
+File: Buenos_Airesbinary.png Graphic file (type png)
+
+<use Buenos_Airesbinary.png>
+Package pdftex.def Info: Buenos_Airesbinary.png used on input line 97.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 97--98
+ [] 
+ []
+
+[7 <./Buenos_Aireshisto.png>] <London.png, id=40, 578.16pt x 433.62pt>
+File: London.png Graphic file (type png)
+
+<use London.png>
+Package pdftex.def Info: London.png used on input line 114.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 114--115
+ [] 
+ []
+
+[8 <./Buenos_Airesbinary.png>] <Londonhisto.png, id=45, 578.16pt x 433.62pt>
+File: Londonhisto.png Graphic file (type png)
+
+<use Londonhisto.png>
+Package pdftex.def Info: Londonhisto.png used on input line 122.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 122--123
+ [] 
+ []
+
+[9 <./London.png>] <Londonbinary.png, id=50, 578.16pt x 433.62pt>
+File: Londonbinary.png Graphic file (type png)
+
+<use Londonbinary.png>
+Package pdftex.def Info: Londonbinary.png used on input line 130.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 130--131
+ [] 
+ []
+
+[10 <./Londonhisto.png>] <Los_Angeles.png, id=55, 578.16pt x 433.62pt>
+File: Los_Angeles.png Graphic file (type png)
+
+<use Los_Angeles.png>
+Package pdftex.def Info: Los_Angeles.png used on input line 143.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 143--144
+ [] 
+ []
+
+[11 <./Londonbinary.png>] <Los_Angeleshisto.png, id=60, 578.16pt x 433.62pt>
+File: Los_Angeleshisto.png Graphic file (type png)
+
+<use Los_Angeleshisto.png>
+Package pdftex.def Info: Los_Angeleshisto.png used on input line 151.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 151--152
+ [] 
+ []
+
+[12 <./Los_Angeles.png>] <Los_Angelesbinary.png, id=65, 578.16pt x 433.62pt>
+File: Los_Angelesbinary.png Graphic file (type png)
+
+<use Los_Angelesbinary.png>
+Package pdftex.def Info: Los_Angelesbinary.png used on input line 159.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 159--160
+ [] 
+ []
+
+[13 <./Los_Angeleshisto.png>] <Nairobi.png, id=71, 578.16pt x 433.62pt>
+File: Nairobi.png Graphic file (type png)
+
+<use Nairobi.png>
+Package pdftex.def Info: Nairobi.png used on input line 169.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 169--170
+ [] 
+ []
+
+[14 <./Los_Angelesbinary.png>] <Nairobihisto.png, id=76, 578.16pt x 433.62pt>
+File: Nairobihisto.png Graphic file (type png)
+
+<use Nairobihisto.png>
+Package pdftex.def Info: Nairobihisto.png used on input line 178.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 178--179
+ [] 
+ []
+
+[15 <./Nairobi.png>] <Nairobibinary.png, id=81, 578.16pt x 433.62pt>
+File: Nairobibinary.png Graphic file (type png)
+
+<use Nairobibinary.png>
+Package pdftex.def Info: Nairobibinary.png used on input line 187.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 187--188
+ [] 
+ []
+
+[16 <./Nairobihisto.png>] <Tokyo.png, id=86, 578.16pt x 433.62pt>
+File: Tokyo.png Graphic file (type png)
+
+<use Tokyo.png>
+Package pdftex.def Info: Tokyo.png used on input line 198.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 198--199
+ [] 
+ []
+
+[17 <./Nairobibinary.png>] <Tokyohisto.png, id=91, 578.16pt x 433.62pt>
+File: Tokyohisto.png Graphic file (type png)
+
+<use Tokyohisto.png>
+Package pdftex.def Info: Tokyohisto.png used on input line 207.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 207--208
+ [] 
+ []
+
+[18 <./Tokyo.png>] <Tokyobinary.png, id=96, 578.16pt x 433.62pt>
+File: Tokyobinary.png Graphic file (type png)
+
+<use Tokyobinary.png>
+Package pdftex.def Info: Tokyobinary.png used on input line 215.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 215--216
+ [] 
+ []
+
+[19 <./Tokyohisto.png>] <1all_citieshisto.png, id=102, 578.16pt x 433.62pt>
+File: 1all_citieshisto.png Graphic file (type png)
+
+<use 1all_citieshisto.png>
+Package pdftex.def Info: 1all_citieshisto.png used on input line 226.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 226--227
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 223--230
+
+ []
+
+[20 <./Tokyobinary.png>] <1Buenos_Aires.png, id=107, 578.16pt x 433.62pt>
+File: 1Buenos_Aires.png Graphic file (type png)
+
+<use 1Buenos_Aires.png>
+Package pdftex.def Info: 1Buenos_Aires.png used on input line 236.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 236--237
+ [] 
+ []
+
+[21 <./1all_citieshisto.png>]
+<1Buenos_Aireshisto.png, id=112, 578.16pt x 433.62pt>
+File: 1Buenos_Aireshisto.png Graphic file (type png)
+
+<use 1Buenos_Aireshisto.png>
+Package pdftex.def Info: 1Buenos_Aireshisto.png used on input line 246.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 246--247
+ [] 
+ []
+
+[22 <./1Buenos_Aires.png>]
+<1Buenos_Airesbinary.png, id=117, 578.16pt x 433.62pt>
+File: 1Buenos_Airesbinary.png Graphic file (type png)
+
+<use 1Buenos_Airesbinary.png>
+Package pdftex.def Info: 1Buenos_Airesbinary.png used on input line 255.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 255--256
+ [] 
+ []
+
+[23 <./1Buenos_Aireshisto.png>] <1London.png, id=122, 578.16pt x 433.62pt>
+File: 1London.png Graphic file (type png)
+
+<use 1London.png>
+Package pdftex.def Info: 1London.png used on input line 272.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 272--273
+ [] 
+ []
+
+[24 <./1Buenos_Airesbinary.png>]
+<1Londonhisto.png, id=127, 578.16pt x 433.62pt>
+File: 1Londonhisto.png Graphic file (type png)
+ <use 1Londonhisto.png>
+Package pdftex.def Info: 1Londonhisto.png used on input line 280.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 280--281
+ [] 
+ []
+
+[25 <./1London.png>] <1Londonbinary.png, id=133, 578.16pt x 433.62pt>
+File: 1Londonbinary.png Graphic file (type png)
+
+<use 1Londonbinary.png>
+Package pdftex.def Info: 1Londonbinary.png used on input line 288.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 288--289
+ [] 
+ []
+
+[26 <./1Londonhisto.png>] <1Los_Angeles.png, id=138, 578.16pt x 433.62pt>
+File: 1Los_Angeles.png Graphic file (type png)
+
+<use 1Los_Angeles.png>
+Package pdftex.def Info: 1Los_Angeles.png used on input line 301.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 301--302
+ [] 
+ []
+
+[27 <./1Londonbinary.png>]
+<1Los_Angeleshisto.png, id=143, 578.16pt x 433.62pt>
+File: 1Los_Angeleshisto.png Graphic file (type png)
+
+<use 1Los_Angeleshisto.png>
+Package pdftex.def Info: 1Los_Angeleshisto.png used on input line 309.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 309--310
+ [] 
+ []
+
+[28 <./1Los_Angeles.png>]
+<1Los_Angelesbinary.png, id=148, 578.16pt x 433.62pt>
+File: 1Los_Angelesbinary.png Graphic file (type png)
+
+<use 1Los_Angelesbinary.png>
+Package pdftex.def Info: 1Los_Angelesbinary.png used on input line 317.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 317--318
+ [] 
+ []
+
+[29 <./1Los_Angeleshisto.png>] <1Nairobi.png, id=153, 578.16pt x 433.62pt>
+File: 1Nairobi.png Graphic file (type png)
+
+<use 1Nairobi.png>
+Package pdftex.def Info: 1Nairobi.png used on input line 327.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 327--328
+ [] 
+ []
+
+[30 <./1Los_Angelesbinary.png>]
+<1Nairobihisto.png, id=158, 578.16pt x 433.62pt>
+File: 1Nairobihisto.png Graphic file (type png)
+ <use 1Nairobihisto.png>
+Package pdftex.def Info: 1Nairobihisto.png used on input line 336.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 336--337
+ [] 
+ []
+
+[31 <./1Nairobi.png>] <1Nairobibinary.png, id=164, 578.16pt x 433.62pt>
+File: 1Nairobibinary.png Graphic file (type png)
+
+<use 1Nairobibinary.png>
+Package pdftex.def Info: 1Nairobibinary.png used on input line 345.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 345--346
+ [] 
+ []
+
+[32 <./1Nairobihisto.png>] <1Tokyo.png, id=169, 578.16pt x 433.62pt>
+File: 1Tokyo.png Graphic file (type png)
+
+<use 1Tokyo.png>
+Package pdftex.def Info: 1Tokyo.png used on input line 356.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 356--357
+ [] 
+ []
+
+[33 <./1Nairobibinary.png>] <1Tokyohisto.png, id=174, 578.16pt x 433.62pt>
+File: 1Tokyohisto.png Graphic file (type png)
+
+<use 1Tokyohisto.png>
+Package pdftex.def Info: 1Tokyohisto.png used on input line 365.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 365--366
+ [] 
+ []
+
+[34 <./1Tokyo.png>] <1Tokyobinary.png, id=179, 578.16pt x 433.62pt>
+File: 1Tokyobinary.png Graphic file (type png)
+
+<use 1Tokyobinary.png>
+Package pdftex.def Info: 1Tokyobinary.png used on input line 373.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 373--374
+ [] 
+ []
+
+[35 <./1Tokyohisto.png>]
+Overfull \hbox (120.07527pt too wide) in paragraph at lines 382--383
+\OT1/cmr/m/n/12 The ac-tiv-ity level is de-fined as: $\OML/cmm/m/it/12 twitterP
+ostNumberPerTimeSlot=totalPostNumber\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 theWholeD
+ay$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
+
+ []
+
+[36 <./1Tokyobinary.png>]
+<Buenos_Airesbinary3.png, id=189, 578.16pt x 433.62pt>
+File: Buenos_Airesbinary3.png Graphic file (type png)
+
+<use Buenos_Airesbinary3.png>
+Package pdftex.def Info: Buenos_Airesbinary3.png used on input line 389.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 389--390
+ [] 
+ []
+
+<Londonbinary3.png, id=190, 578.16pt x 433.62pt>
+File: Londonbinary3.png Graphic file (type png)
+ <use Londonbinary3.png>
+Package pdftex.def Info: Londonbinary3.png used on input line 400.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 400--401
+ [] 
+ []
+
+[37 <./Buenos_Airesbinary3.png>]
+<Los_Angelesbinary3.png, id=196, 578.16pt x 433.62pt>
+File: Los_Angelesbinary3.png Graphic file (type png)
+
+<use Los_Angelesbinary3.png>
+Package pdftex.def Info: Los_Angelesbinary3.png used on input line 414.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 414--415
+ [] 
+ []
+
+[38 <./Londonbinary3.png>] <Nairobibinary3.png, id=201, 578.16pt x 433.62pt>
+File: Nairobibinary3.png Graphic file (type png)
+
+<use Nairobibinary3.png>
+Package pdftex.def Info: Nairobibinary3.png used on input line 429.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 429--430
+ [] 
+ []
+
+[39 <./Los_Angelesbinary3.png>]
+<Tokyobinary3.png, id=206, 578.16pt x 433.62pt>
+File: Tokyobinary3.png Graphic file (type png)
+ <use Tokyobinary3.png>
+Package pdftex.def Info: Tokyobinary3.png used on input line 440.
+(pdftex.def)             Requested size: 462.52863pt x 346.89647pt.
+
+Overfull \hbox (72.52863pt too wide) in paragraph at lines 440--441
+ [] 
+ []
+
+[40 <./Nairobibinary3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
+
+ []
+
+[41 <./Tokyobinary3.png>]
+(./Final project of data visualization by xiaoke shen.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4236 strings out of 493014
+ 61457 string characters out of 6133351
+ 124307 words of memory out of 5000000
+ 7660 multiletter control sequences out of 15000+600000
+ 13086 words of font info for 53 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 38i,7n,28p,760b,259s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Final project of data visualization by xiaoke shen.pdf" (41 
+pages, 2491123 bytes).
+PDF statistics:
+ 233 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+
